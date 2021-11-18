@@ -10,5 +10,6 @@
 <ul>
   <li>Python</li>
   <li>venv, a virtual environment</li>
+  <li>PyCharm IDE. Um ambiente de desenvolvimento integrado</li>
 </ul>
 
