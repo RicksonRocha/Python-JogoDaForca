@@ -41,11 +41,14 @@ def jogar_adivinhacao():
             break
         else:
             if (maior):
-                print('Chute maior que o número secreto')
+                print('Chute foi maior que o número secreto')
             elif (menor):
-                print('Chute menor que o número secreto')
+                print('Chute foi menor que o número secreto')
             pontos_perdidos = abs(numero_secreto - chute_int)
             pontos = pontos - pontos_perdidos
         rodada = rodada + 1
 
     print('Fim de jogo')
+
+if (__name__ == "__main__"):
+    jogar_adivinhacao()
