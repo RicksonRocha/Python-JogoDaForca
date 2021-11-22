@@ -1,6 +1,6 @@
-<h1>Primeiro Projeto Python</h1>
+<h1>Jogo da Forca: Meu primeiro código Python</h1>
 <h2>O que é esse projeto?</h2>
-<p>Jogo de adivinhar número sorteado. Comandos simples em Python para estudar sobre a sintaxe, estruturas de repetição e as potencialidades da linguagem.</p>
+<p>Jogo da forca, com adivinhação de letras e formação de palavras, para vencer ou ser enforcado. Uso comandos simples para estudar sobre a sintaxe, estruturas de repetição, gravação de arquivo, funcões e as potencialidades da linguagem.</p>
 <ol>
   <li>Criação e importação de módulos</li>
   <li>Laços de iteração</li>
