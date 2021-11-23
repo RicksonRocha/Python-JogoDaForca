@@ -9,7 +9,7 @@
 <h2>Tecnologias usadas:</h2>
 <ul>
   <li>Python</li>
-  <li>venv, a virtual environment</li>
-  <li>PyCharm IDE. Um ambiente de desenvolvimento integrado</li>
+  <li>VENV, a virtual environment</li>
+  <li><a href="https://www.jetbrains.com/pycharm/">PyCharm IDE</a>. Um ambiente de desenvolvimento integrado</li>
 </ul>
 
